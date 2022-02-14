@@ -1,0 +1,13 @@
+/* footer */
+.footer {
+    padding: 0 0 100px;
+}
+.footer .inner-footer {
+    display: flex;
+    justify-content: center;
+    background-color: #ccc;
+}
+.footer .inner-footer .fcon {
+    line-height: 20px;
+    padding: 40px 0;
+}
